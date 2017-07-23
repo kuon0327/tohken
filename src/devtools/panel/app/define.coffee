@@ -24,6 +24,8 @@
     "10": "虎徹"
     "11": "長船"
     "12": "青江"
+    "13": "三池"
+    "14": "貞宗"
   }
   exports.tohken.define.area = {
     "1": "狭"
@@ -79,6 +81,36 @@
       "equip": 1
       "area": 1
       "upgrade": 20
+    }
+    "13": {
+      "name": "大典太光世"
+      "id": 13
+      "rarity": 5
+      "type": 2
+      "group": 13
+      "equip": 3
+      "area": 1
+      "upgrade": 25
+    }
+    "15": {
+      "name": "ソハヤノツルキ"
+      "id": 15
+      "rarity": 3
+      "type": 2
+      "group": 13
+      "equip": 2
+      "area": 1
+      "upgrade": 25
+    }
+    "17": {
+      "name": "数珠丸恒次"
+      "id": 17
+      "rarity": 5
+      "type": 2
+      "group": 12
+      "equip": 3
+      "area": 1
+      "upgrade": 25
     }
     "19": {
       "name": "にっかり青江"
@@ -150,6 +182,26 @@
       "area": 1
       "upgrade": 20
     }
+    "35": {
+      "name": "後藤藤四郎"
+      "id": 35
+      "rarity": 1
+      "type": 7
+      "group": 9
+      "equip": 1
+      "area": 1
+      "upgrade": 20
+    }
+    "37": {
+      "name": "信浓藤四郎"
+      "id": 37
+      "rarity": 1
+      "type": 7
+      "group": 9
+      "equip": 1
+      "area": 1
+      "upgrade": 20
+    }
     "39": {
       "name": "前田藤四郎"
       "id": 39
@@ -163,6 +215,16 @@
     "41": {
       "name": "秋田藤四郎"
       "id": 41
+      "rarity": 1
+      "type": 7
+      "group": 9
+      "equip": 1
+      "area": 1
+      "upgrade": 20
+    }
+    "43": {
+      "name": "博多藤四郎"
+      "id": 43
       "rarity": 1
       "type": 7
       "group": 9
@@ -199,6 +261,26 @@
       "equip": 1
       "area": 1
       "upgrade": 20
+    }
+    "51": {
+      "name": "包丁藤四郎"
+      "id": 51
+      "rarity": 1
+      "type": 7
+      "group": 9
+      "equip": 1
+      "area": 1
+      "upgrade": 20
+    }
+    "53": {
+      "name": "大包平"
+      "id": 53
+      "rarity": 5
+      "type": 2
+      "group": 4
+      "equip": 3
+      "area": 1
+      "upgrade": 25
     }
     "55": {
       "name": "鶯丸"
@@ -239,6 +321,16 @@
       "area": 1
       "upgrade": 20
     }
+    "63": {
+      "name": "千子村正"
+      "id": 63
+      "rarity": 3
+      "type": 5
+      "group": 7
+      "equip": 2
+      "area": 1
+      "upgrade": 20
+    }
     "65": {
       "name": "蜻蛉切"
       "id": 65
@@ -248,6 +340,36 @@
       "equip": 2
       "area": 4
       "upgrade": 25
+    }
+    "67": {
+      "name": "物吉贞宗"
+      "id": 67
+      "rarity": 2
+      "type": 4
+      "group": 13
+      "equip": 2
+      "area": 1
+      "upgrade": 20
+    }
+    "69": {
+      "name": "太鼓鐘貞宗"
+      "id": 69
+      "rarity": 1
+      "type": 7
+      "group": 14
+      "equip": 1
+      "area": 1
+      "upgrade": 20
+    }
+    "71": {
+      "name": "亀甲貞宗"
+      "id": 71
+      "rarity": 2
+      "type": 5
+      "group": 14
+      "equip": 2
+      "area": 1
+      "upgrade": 20
     }
     "73": {
       "name": "燭台切光忠"
@@ -399,6 +521,76 @@
       "area": 1
       "upgrade": 25
     }
+    "107": {
+      "name": "髭切"
+      "id": 107
+      "rarity": 2
+      "type": 2
+      "group": 1
+      "equip": 2
+      "area": 1
+      "upgrade": 25
+    }
+    "108": {
+      "name": "髭切"
+      "id": 108
+      "rarity": 2
+      "type": 2
+      "group": 1
+      "equip": 2
+      "area": 1
+      "upgrade": 50
+    }
+    "109": {
+      "name": "髭切"
+      "id": 109
+      "rarity": 2
+      "type": 3
+      "group": 1
+      "equip": 2
+      "area": 1
+      "upgrade": 75
+    }
+    "110": {
+      "name": "髭切"
+      "id": 110
+      "rarity": 3
+      "type": 2
+      "group": 1
+      "equip": 2
+      "area": 1
+      "upgrade": 75
+    }
+    "112": {
+      "name": "膝丸"
+      "id": 112
+      "rarity": 4
+      "type": 2
+      "group": 1
+      "equip": 3
+      "area": 1
+      "upgrade": 25
+    }
+    "113": {
+      "name": "膝丸"
+      "id": 113
+      "rarity": 3
+      "type": 2
+      "group": 1
+      "equip": 2
+      "area": 1
+      "upgrade": 50
+    }
+    "114": {
+      "name": "膝丸"
+      "id": 114
+      "rarity": 4
+      "type": 2
+      "group": 1
+      "equip": 3
+      "area": 1
+      "upgrade": 50
+    }
     "116": {
       "name": "大倶利伽羅"
       "id": 116
@@ -419,6 +611,16 @@
       "area": 1
       "upgrade": 25
     }
+    "120": {
+      "name": "不動行光"
+      "id": 120
+      "rarity": 1
+      "type": 7
+      "group": 9
+      "equip": 1
+      "area": 1
+      "upgrade": 25
+    }
     "122": {
       "name": "獅子王"
       "id": 122
@@ -426,6 +628,16 @@
       "type": 2
       "group": 1
       "equip": 2
+      "area": 1
+      "upgrade": 25
+    }
+    "124": {
+      "name": "小烏丸"
+      "id": 124
+      "rarity": 5
+      "type": 2
+      "group": 1
+      "equip": 3
       "area": 1
       "upgrade": 25
     }
@@ -467,6 +679,16 @@
       "equip": 2
       "upgrade": 25
     }
+    "136": {
+      "name": "日本号"
+      "id": 136
+      "rarity": 3
+      "type": 6
+      "group": 1
+      "equip": 2
+      "area": 4
+      "upgrade": 25
+    }
     "138": {
       "name": "御手杵"
       "id": 138
@@ -475,6 +697,15 @@
       "group": 1
       "equip": 2
       "area": 4
+      "upgrade": 25
+    }
+    "140": {
+      "name": "巴形薙刀"
+      "id": 140
+      "rarity": 2
+      "type": 3
+      "group": 1
+      "equip": 2
       "upgrade": 25
     }
   }
